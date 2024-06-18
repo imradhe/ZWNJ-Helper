@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "ZWNJ Helper",
-  "version": "1.0",
-  "description": "Adds ZWNJ character to input fields on shoonya.ai4bharat.org.",
+  "version": "1.1",
+  "description": "A simple tool to add ZWNJ (Zero Width Non-Joiner)",
   "permissions": ["contextMenus", "activeTab", "scripting"],
   "background": {
     "service_worker": "background.js"
